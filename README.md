@@ -1,2 +1,2 @@
 # jdbc4
- jdbc4-atualizar dados
+ jdbc5-deletar dados
